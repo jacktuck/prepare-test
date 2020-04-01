@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "echo \"EXECUTING PREPARE\""
+    "prepare": "touch script_created_this"
   },
   "keywords": [],
   "author": "",
